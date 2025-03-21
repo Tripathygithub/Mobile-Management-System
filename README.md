@@ -148,9 +148,11 @@ This section provides an overview of the tables and models used in the project.
 
 ## Screenshots
 ### Student Schema
-![image](https://github.com/user-attachments/assets/c3c2611e-7627-44d8-af0b-128ecdecad40)
+![image](https://github.com/user-attachments/assets/500c2d2e-bf7d-46d3-9735-80d8441e6874)
+
 ### Studnet Table
-![image](https://github.com/user-attachments/assets/47ffb498-2d0e-4192-85b0-dd931d8d22a4)
+![image](https://github.com/user-attachments/assets/ef4da09b-6ef4-49d9-9e23-ed07885a0107)
+
 
 
 
